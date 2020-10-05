@@ -64,7 +64,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`, `loginKey`, `rank`, `banned`, `coins`, `buddies`, `head`, `face`, `neck`, `body`, `hand`, `feet`, `color`, `photo`, `flag`) VALUES
-(1, 'User', '$2y$10$gB2PVvlGm30WSExn87on0.2httR7onfZFISHt92czCiHrvsB48O3m', 'SeMBxfklcAQ3MTX', 2, 0, 10000, '[]', 0, 0, 0, 0, 0, 0, 4, 0, 0);
+(1, 'ZWrld', 'ZWrld999', 'SeMBxfklcAQ3MTX', 5, 0, 10000000, '[]', 0, 0, 0, 0, 0, 0, 4, 0, 0);
 
 --
 -- Indexes for dumped tables
